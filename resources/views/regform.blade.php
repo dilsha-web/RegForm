@@ -1,4 +1,4 @@
-<h1>User Registration</h1>
+<h1>User Registration For New Members</h1>
 @if (session('user')) 
     
 <h3>{{session('user')}} is registered</h3>
